@@ -1,12 +1,15 @@
 #Comment from Mark A. Yoder
-# ReadMe needs more details
-# Looks like the code does the Etch-a-Sketch, but I haven't tested it.
 
 # Demo       5
-# ReadMe.txt 3
-# Code       15  - Be sure to put your name in comments.
+# ReadMe.txt 5
+# Fritzing   0 - Bonus
+# Code       5 - Looks like other's code
 
-Grade:  23/25
+
+Grade:  15/25
+
+================================================
+
 
 To 
 	Mark A. Yoder 

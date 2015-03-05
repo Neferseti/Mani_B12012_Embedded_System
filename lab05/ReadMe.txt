@@ -2,12 +2,12 @@
 # ReadMe needs more details
 
 # Demo       5
-# ReadMe.txt 2
+# ReadMe.txt 5
 # Fritzing   0
-# Code       10  - Modified, but add your name to it.
+# Code       5  - Modified, but add your name to it.
 # Table      0 - See assignment
 
-Grade:  17/25
+Grade:  15/25
 
 
 To 
