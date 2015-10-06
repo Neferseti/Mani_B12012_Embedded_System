@@ -1,0 +1,2 @@
+1) phoneB - A DIY mobile phone using BeagleBone
+2) Digital Stethoscope - A pulse and heart beat monitoring system
