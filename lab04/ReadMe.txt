@@ -1,10 +1,11 @@
 Comments from Mark A. Yoder
 Your basic matrixLED code respondes to a pushbutton.  Could you make it respond to an interrupt?
 No Etch-a-Sketch
+Your memo needs more details.  -3
 
 Late:  -2
 
-Grade: 18/25
+Grade: 15/25
 
 To 
 	Mark A. Yoder 

@@ -1,3 +1,13 @@
+#Comment from Mark A. Yoder
+# ReadMe needs more details
+# Looks like the code does the Etch-a-Sketch, but I haven't tested it.
+
+# Demo       5
+# ReadMe.txt 3
+# Code       15  - Be sure to put your name in comments.
+
+Grade:  23/25
+
 To 
 	Mark A. Yoder 
 
