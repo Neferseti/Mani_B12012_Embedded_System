@@ -4,22 +4,22 @@ var outputs = ["USR0", "USR1", "USR2", "USR3", "P9_11", "P9_13", "P9_15", "P9_17
 var inputs = ["P8_7", "P8_9", "P8_11", "P8_13", "P8_15"];
 
 
-for(var i in outputs) {
+for(var i in outputs) { //set the pin mode of outputs array as OUTPUT
     b.pinMode(outputs[i], b.OUTPUT);
 }
 
-for(var i in inputs) {
+for(var i in inputs) { //set the pin mode of inputs array as INPUT
     b.pinMode(inputs[i], b.INPUT);
 }
 
-for(var i in outputs) {
+for(var i in outputs) { // set LOW value of elements in OUTPUT
     b.digitalWrite(outputs[i], b.LOW);
 }
 
 
-setInterval(check,100);
+setInterval(check,100); // probe the function after 100ms
 
-function check(){
+function check(){ 
     b.digitalRead(inputs[0], checkButton0);
     b.digitalRead(inputs[1], checkButton1);
     b.digitalRead(inputs[2], checkButton2);

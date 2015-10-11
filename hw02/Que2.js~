@@ -61,7 +61,7 @@ function check(){ // reads the values of inputs
 
 
 
-function checkButton0(d) { //check the state of button 0 and take appropriate actions
+function checkButton0(d) {
   if(d.value == 1){
     b.digitalWrite(outputs[4], b.HIGH);
     b.digitalWrite(outputs[0], b.HIGH);
@@ -78,7 +78,7 @@ function checkButton0(d) { //check the state of button 0 and take appropriate ac
   }
 }
 
-function checkButton1(d) { //check the state of button 1 and take appropriate actions
+function checkButton1(d) {
   if(d.value == 1){
     b.digitalWrite(outputs[5], b.HIGH);
     b.digitalWrite(outputs[1], b.HIGH);
@@ -96,7 +96,7 @@ function checkButton1(d) { //check the state of button 1 and take appropriate ac
   }
 }
 
-function checkButton2(d) { //check the state of button 2 and take appropriate actions
+function checkButton2(d) {
   if(d.value == 1){
     b.digitalWrite(outputs[6], b.HIGH);
     b.digitalWrite(outputs[2], b.HIGH);
@@ -113,7 +113,7 @@ function checkButton2(d) { //check the state of button 2 and take appropriate ac
   }
 }
 
-function checkButton3(d) { //check the state of button 3 and take appropriate actions
+function checkButton3(d) {
   if(d.value == 1){
     b.digitalWrite(outputs[7], b.HIGH);
     b.digitalWrite(outputs[3], b.HIGH);
@@ -131,7 +131,7 @@ function checkButton3(d) { //check the state of button 3 and take appropriate ac
   }
 }
 
-function checkButton4(y) { //check the state of button 4 and take appropriate actions
+function checkButton4(y) {
   if(y.value == 1){
     b.digitalWrite(outputs[8], b.HIGH);
     b.digitalWrite(outputs[0], b.HIGH);

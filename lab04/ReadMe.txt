@@ -21,3 +21,4 @@ Partner Name
 
 In this lab, the task was to turn on an I2C LED Matrix and make various patterns on it e.g. Smiling Face, Sad Face, Normal Face, Light Fade down etc
 
+The main code is in lab04.js. pushLED.js is the variation of the task in which the smiling pattern comes up whenever the push button is pressed, otherwise the pattern is sad. 
