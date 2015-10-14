@@ -11,7 +11,7 @@ Date
 
 
 Subject
-	LED I2C Matrix
+	Range Sensors
 
 
 Partner Name
@@ -19,5 +19,5 @@ Partner Name
 
 
 
-In this lab, the task was to turn on an I2C LED Matrix and make various patterns on it e.g. Smiling Face, Sad Face, Normal Face, Light Fade down etc
+In this lab, the task was to interface the Range Sensor with BBB and to compare the sensor for range and accuracy. 
 
